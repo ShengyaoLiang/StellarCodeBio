@@ -1,9 +1,8 @@
 # StellarCodeBio: 构建下一代科学发现AI引擎
 
 [![许可证: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-**[English Version (Read English Version)](README.md)**
+**[阅读英文版 (Read English Version)](README.md)**
 <!-- 未来考虑在这里放置一个代表 StellarCodeBio 的 Logo 或 Banner -->
-**[English Version (阅读英文版)](README.md)**
 
 欢迎来到 **StellarCodeBio** 计划的官方代码仓库！
 
