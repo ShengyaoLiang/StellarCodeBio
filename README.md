@@ -1,6 +1,7 @@
 # StellarCodeBio: Architecting Next-Generation AI for Scientific Discovery
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+**[阅读中文版 (Read in Chinese)](README_zh.md)** 
 <!-- Future consideration: A dedicated logo/banner for StellarCodeBio -->
 
 Welcome to the official repository of the **StellarCodeBio** initiative!
