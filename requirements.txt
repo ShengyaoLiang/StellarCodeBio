@@ -1,0 +1,12 @@
+chembl_webresource_client
+pandas
+numpy
+rdkit-pypi
+tqdm
+scikit-learn
+lightgbm
+xgboost
+joblib
+matplotlib
+seaborn
+scipy
