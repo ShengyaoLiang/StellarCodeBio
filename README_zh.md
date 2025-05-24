@@ -40,10 +40,10 @@ StellarCodeBio 是一项源于个人热忱且着眼长远的雄心探索，致�
 作为 StellarCodeBio 计划下的首个公开项目，本项目提供了一个经过验证的机器学习模型，用于预测潜在的Janus激酶2 (JAK2) 抑制剂的pIC50值，这在早期药物发现中是一项至关重要的任务。
 
 **原始手稿背景：**
-本pIC50模型的研究成果最初提交至 *Journal of Chemical Information and Modeling* (手稿ID: ci-2025-00977b)。后经期刊编辑认可其科学价值并建议转投，我们将其提交至 *ACS Omega* (手稿ID: ao-2025-043259)。
-详细介绍本工作的预印本“An Efficient Machine Learning-Based Prediction Model for JAK2 Inhibitor pIC50”已发布于 ChemRxiv：
+本pIC50模型的研究成果最初提交至 *Journal of Chemical Information and Modeling* (手稿ID: ci-2025-00977b)。后经期刊编辑认可其科学价值并建议转投，我们将其提交至 *ACS Omega* (手稿ID: ao-2025-043259)。尽管 ACS Omega 最终认为该工作的主要侧重点更符合机器学习应用而非其特定的化学读者群（因此决定不送外审），但他们仍对工作质量表示了肯定。详细介绍本工作的预印本“An Efficient Machine Learning-Based Prediction Model for JAK2 Inhibitor pIC50”已发布于 ChemRxiv：
 **DOI: [10.26434/chemrxiv-2025-3v3gw-v3](https://doi.org/10.26434/chemrxiv-2025-3v3gw-v3)**
-尽管 ACS Omega 最终认为该工作的主要侧重点更符合机器学习应用而非其特定的化学读者群（因此决定不送外审），但他们仍对工作质量表示了肯定。本次开源旨在与更广泛的科学界分享这些研究发现和开发的工具，特别是那些可能认为此工具有用但缺乏类似商业软件资源的同行。我们坚信开放科学的力量能够加速所有人的研究进程。
+
+本次开源旨在与更广泛的科学界分享这些研究发现和开发的工具，特别是那些可能认为此工具有用但缺乏类似商业软件资源的同行。我们坚信开放科学的力量能够加速所有人的研究进程。
 
 ### 摘要 (pIC50 模型)
 **背景：** Janus激酶2 (JAK2) 是细胞信号转导中的关键激酶。其异常激活与多种骨髓增殖性肿瘤和炎症性疾病密切相关。开发选择性JAK2抑制剂是药物发现的重要方向。准确预测化合物对JAK2的抑制活性 ($pIC_{50}$) 对于加速先导化合物的发现和优化至关重要。
